@@ -1,0 +1,21 @@
+
+
+.navbar{
+    background-color:hsl(36, 100%, 99%) !important;
+}
+
+.container{
+    margin: 70px;
+    background-color:hsl(36, 100%, 99%) !important;
+}
+.logo{
+    margin-left: 10px;
+}
+
+.navbar-nav{
+    min-width: 400px;
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: space-between !important;
+}
+
